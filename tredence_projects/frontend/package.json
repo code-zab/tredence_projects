@@ -1,0 +1,22 @@
+{
+  "name": "realtime-pair-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-redux": "8.1.1",
+    "@reduxjs/toolkit": "1.9.5"
+  },
+  "devDependencies": {
+    "typescript": "5.5.6",
+    "vite": "5.1.7",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7"
+  }
+}
